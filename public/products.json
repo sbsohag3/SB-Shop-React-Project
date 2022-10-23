@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "ASRock H370M-HDV Motherboard & Intel Core i5-9500 Processor (Tray) Bundle",
+    "brand": "ASRock",
+    "price": "299.99",
+    "stock": "152",
+
+    "descriptions": "Model: H370M-HDV & Core i5-9500 (Tray),Processor Clock Speed: 3.00 GHz up to 4.40 GHz,Cores-6, Threads-6 & 9MB Smart Cache,2 DIMMs, Up to DDR4 2666 MHz"
+    ,
+    "img": "https://i.ibb.co/6FbfzJK/h1.png"
+  },
+  {
+    "id": 2,
+    "name": "ASRock A520M-HDV Motherboard and Ryzen 5 5600G Processor Bundle",
+    "brand": "ASRock",
+    "price": "249.99",
+    "stock": "81",
+
+    "descriptions": " Model: A520M-HDV & Ryzen 5 5600G, Motherboard supports 1 x PCIe 3.0 x16,Graphics Output Options: D-Sub, DVI-D, HDMI, Processor speed: 3.9GHz up to 4.4GHz, Cache: L2: 3MB, L3: 16MB",
+
+    "img": "https://i.ibb.co/GctxGhm/h2.png"
+  },
+  {
+    "id": 3,
+    "name": "Intel 10th Gen Core i3 10100 Processor",
+    "brand": "INTEL",
+    "price": "149.99",
+    "stock": "100",
+
+    "descriptions": 
+      "Model: Intel Core i3 10100,Socket Supported FCLGA1200,Speed 3.60 up to 4.30 GHz,Cores- 4 & Threads- 8,6M Cache"
+    ,
+    "img": "https://i.ibb.co/VYKw6W2/i3.png"
+  },
+  {
+    "id": 4,
+    "name": "Intel 10th Gen Core i5-10400F Processor",
+    "price": "179.99",
+    "stock": "169",
+
+    "brand": "INTEL",
+    "descriptions": 
+      " Model: Intel Core i5-10400F,Clock Speed:2.90 GHz up to 4.30 GHz,Cores-6 & Threads-12,12 MB SmartCache, Memory Types: DDR4-2666"
+    ,
+
+    "img": "https://i.ibb.co/cXh5mmN/i5.png"
+  },
+  {
+    "id": 5,
+    "name": "Intel 8th Generation Core i7-8700K Processor",
+    "price": "399.99",
+    "stock": "52",
+
+    "brand": "INTEL",
+    "descriptions": 
+      "Model: Intel 8th Gen i7 8700K, Clock Speed: 3.70 GHz to 4.70 GHz, Cache 12M Cache, Cores-6 & Threads-12, Sockets Supported FCLGA1151"
+    ,
+    "img": "https://i.ibb.co/s27Cz4p/i7.png"
+  },
+  {
+    "id": 6,
+    "name": "Apacer Panther Golden 4GB DDR4 2666MHZ Desktop RAM ",
+    "price": "32.99",
+    "stock": "271",
+    "brand": "Apacer",
+    "descriptions": 
+      "Model: Panther Golden 4GB DDR4 2666MHZ, Capacity: 4GB, Frequency: 2666MHZ , PIN: 288-pin,Memory Architecture: x8 FBGA DRAM chip, Voltage & Cas Latency: 1.2V/16-18-18-38"
+    ,
+    "img": "https://i.ibb.co/Lt97B0R/ram1.png"
+  },
+  {
+    "id": 7,
+    "name": "Apacer Panther Golden 4GB DDR4 2666MHZ Desktop RAM",
+    "price": "59.99",
+    "stock": "300",
+    "brand": "Apacer",
+    "descriptions": 
+      "MPN: PVS48G320C6, Model: Patriot Viper Steel 8GB, Heat Sink, Type -DDR4, Capacity -8GB, Memory Speed -3200MHz"
+    ,
+    "img": "https://i.ibb.co/F6mjdKg/ram2.png"
+  },
+  {
+    "id": 8,
+    "name": "APACER NOX RGB AURA2 8GB DDR4 2666MHz Desktop RAM",
+    "price": "48.99",
+    "stock": "320",
+    "brand": "Apacer",
+    "descriptions": 
+      "Model: AURA2 8GB DDR4 2666MHz,Capacity: 8GB, Frequency: 2666MHz, PIN: 288-pin, Memory Architecture: x8 FBGA DRAM chip, Voltage & Cas Latency: 1.2V/16-18-18-38"
+    ,
+    "img": "https://i.ibb.co/8Pbn1DS/ram3.png"
+  },
+  {
+    "id": 9,
+    "name": "GIGABYTE GeForce GT 730 2GB DDR3 PCI EXPRESS Graphics Card",
+    "price": "99.99",
+    "stock": "470",
+    "brand": "GIGABYTE",
+    "descriptions": 
+      "MPN: GV-N730D3-2GI, Model: GeForce GT 730, Integrated with the first 2048MB DDR3 memory,Features Dual-Link DVI-D, HDMI, D-Sub, Support PCI Express 2.0 x8 bus interface,System power supply requirement: 300W"
+    ,
+    "img": "https://i.ibb.co/7j3Vcpv/gr.png"
+  }
+]

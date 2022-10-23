@@ -1,0 +1,53 @@
+[
+  {
+    
+    "name": "Prince Akachi",
+
+    "review": "I loved this case, it is strurdy and lightweight. Only issue is that it smudges.",
+    "rating": 5.0,
+    "img": "https://i.ibb.co/x8zsdd3/brooke-cagle-Kriecp-TIWg-Y-unsplash.jpg"
+  },
+  {
+    
+    "name": "Brooke Cagle",
+
+    "review": " It can easily withstand timing and sub-timing editing and it operates at a very nice voltage and temperature. I highly recommend.",
+    "rating": 4.0,
+    "img": "https://i.ibb.co/61RqYkn/brooke-cagle-63-ARYFqt-Cp-Y-unsplash.jpg"
+  },
+  {
+    
+    "name": "Ruthson Zimmerman",
+    "review": "When I do a lot of PC part research I can tell people scam all of us just to try to get you to buy higher and more expensive stuff....maybe for the company they work for.",
+    "rating": 4,
+    "img": "https://i.ibb.co/hZf3mc5/shttefan-Q-o-PI42-Ar-Q-unsplash.jpg"
+  },
+  {
+    
+    "name": "Sam Burriss",
+    "review": "With the Ryzen 5 3600 being frequently out of stock or marked up lately, this processor competes nicely with it, particularly in game benchmarks. Easier to install too and you don't have to worry about bent PGA pins!",
+    "rating": 4.0,
+    "img": "https://i.ibb.co/DMzxfd0/tom-pumford-T5lmp-SYxn-SU-unsplash.jpg"
+  },
+  {
+    
+    "name": "Alvin Mahmudov",
+    "review": "El procesador funciona muy bien, la temperatura se mantiene entre 33° y 35° utilizandolo en windows con el cooler master hyper 212. No sabria decir que temperatura mantiene el microprocesador con el cooler de stock.",
+    "rating": 5.0,
+    "img": "https://i.ibb.co/PNP3ffy/mubariz-mehdizadeh-Py8-F6-h-Rn5o-unsplash.jpg"
+  },
+  {
+    
+    "name": "Foto Sushi",
+    "review": "I originally ordered from Amazon but due to complications I didn't receive my order but I managed to get myself one from elsewhere regardless & it's a great CPU.",
+    "rating": 3.0,
+    "img": "https://i.ibb.co/S3C2GGN/sam-burriss-e-B0-Emi-v-JRk-unsplash.jpg"
+  },
+  {
+    
+    "name": "Jakob Owens",
+    "review": "I have an Aorus Elite WiFi mobo. I had updated to bios version F31i, and the new processor would not post. The case fans and GPU fans just spun and nothing happened. I put my 3800xt back in and reinstalled a newer bios just released, F31l. It worked that time.",
+    "rating": 2.0,
+    "img": "https://i.ibb.co/3YD65G5/tyler-nix-ZGa9d1a-4t-A-unsplash.jpg"
+  }
+]
