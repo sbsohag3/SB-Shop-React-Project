@@ -1,8 +1,13 @@
 import useReviews from "../../hooks/useReviews";
+import Loading from "../Shared/Loading";
+
 import Review from "./Review";
 
 const ProductsReviews = () => {
   const [reviews]= useReviews()
+  // if (reviews) {
+  //   return <Loading />;
+  // }
   return (
     <section className="lg:my-12 lg:px-12">
       <h2 className="my-10 text-3xl font-bold text-center text-info">What our Client say</h2>
